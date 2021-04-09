@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
